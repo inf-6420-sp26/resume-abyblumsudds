@@ -1,7 +1,7 @@
 
 # Aby Blum Sudds
 
-![headshot of Aby Blum Sudds](abyblumsudds.png)
+![headshot of Aby Blum Sudds](resume/images/abyblumsudds.png)
 
 ## Education
 
